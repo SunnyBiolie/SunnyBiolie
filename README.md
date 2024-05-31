@@ -1,6 +1,10 @@
 ### Hello there 👋
 ✨ Welcome to my Github ✨
 
+I'm Pham Nguyen Chi Khoa; you can call me Sunny
+
+This GitHub repository is where I store my personal and university projects, as well as some university materials.
+
 <!--
 **SunnyBiolie/SunnyBiolie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
